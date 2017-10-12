@@ -1,0 +1,15 @@
+https://www.youtube.com/watch?v=A5fiWcVcADw&index=2&list=PL4cUxeGkcC9jBcybHMTIia56aV21o2cZ8
+
+1- create jisson pakkage
+npm init -y
+
+2-
+"C:\Program Files\MongoDB\Server\3.4\bin\mongod.exe"
+
+3-
+ npm install body-parser --save
+
+
+4- //install mongoose in the jisson pakkage as a dependinance
+npm install mongoose --save
+
